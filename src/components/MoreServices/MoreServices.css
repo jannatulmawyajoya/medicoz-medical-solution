@@ -1,0 +1,15 @@
+.moreservices-div{
+    overflow-x: hidden;
+    width: 100%;
+    
+}
+.moreServices-cart{
+    border: none;
+    margin: 10px;
+}
+.moreServices-cart:hover{
+    background-color: lightsteelblue;
+    border: 2px solid gray;
+    padding: auto;
+    border-radius: 5px;
+}

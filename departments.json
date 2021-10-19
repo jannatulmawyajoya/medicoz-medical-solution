@@ -1,0 +1,38 @@
+[
+    {
+        "key": 1,
+        "name": "Cardiology",
+        "img": "https://chandandiagnostic.com/images/services/cardiology.jpg",
+        "description": "The Department of Cardiology comprises physicians who are authorities in the various subspecialties that make up the field of cardiology -- from open heart surgery to minimally invasive procedures such as TAVR and precision angioplasty, to leading edge treatments of arrhythmia and congestive heart failure."
+    },
+    {
+        "key": 2,
+        "name": "Neurology",
+        "img": "https://tse4.mm.bing.net/th?id=OIP.4jo0a_5HLnDVBUeoR7jdcAHaDt&pid=Api&P=0&w=419&h=210",
+        "description": "The Department of Neurology is committed to three equally valued and interrelated missions: Delivery of quality patient care Generating knowledge from research that will alleviate human suffering through prevention and treatment of disease Educating physicians in accordance with highest professional standards"
+    },
+    {
+        "key": 3,
+        "name": "Urology",
+        "img": "https://tse1.explicit.bing.net/th?id=OIP.ixLwwNqUbjKw8irx3TrxyQHaEK&pid=Api&P=0&w=274&h=155",
+        "description": "The Department of Urology has one of the highest surgical volumes in the country and is consistently ranked among the top institutions for urologic care by US News and World Report. We go the extra mile to take care of our patients and deliver the highest quality care possible. Our research efforts span the gamut of disciplines."
+    },
+    {
+        "key": 4,
+        "name": "Gynecological",
+        "img": "https://tse2.mm.bing.net/th?id=OIP.g14wwBeE7lO0XEqICTsEhAHaEp&pid=Api&P=0&w=243&h=153",
+        "description": "Gynecology The Department of Obstetrics and Gynecology offers a wide array of obstetrical and gynecological services. There are 12 full time attendings, 13 full time midwives and 10 full time Physician Assitants and a team of skilled nurses. We also have Specialists in Maternal Fetal Medicine, Ultrasound, Gyn Oncology and Urogynecology."
+    },
+    {
+        "key": 5,
+        "name": "Pediatrical",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.HjnUkFsLbIBmvGPfPtWdigHaD2&pid=Api&P=0&w=298&h=156",
+        "description": "Department of Pediatrics The Department of Pediatrics at MUSC represents the clinical department dedicated to the study of pediatrics within the College of Medicine. The department is committed to providing a broad educational experience in all aspects of pediatric medicine."
+    },
+    {
+        "key": 6,
+        "name": "Laboratory",
+        "img": "https://tse1.mm.bing.net/th?id=OIP.hxBHnLz4RDyVzWbkJg4CIAHaEK&pid=Api&P=0&w=289&h=163",
+        "description": "A medical laboratory or clinical laboratory is a laboratory where tests are carried out on clinical specimens to obtain information about the health of a patient to aid in diagnosis, treatment, and prevention of disease. Clinical Medical laboratories are an example of applied science, as opposed to research laboratories that focus on basic science, such as found in some academic institutions. "
+    }
+]

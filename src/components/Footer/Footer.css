@@ -1,7 +1,7 @@
 .icon {
   margin: 5px;
   padding: 5px;
-  background-color: rgb(46, 46, 46);
+  /* background-color: rgb(46, 46, 46); */
   /* border-radius: 5px; */
   color: rgb(155, 155, 155);
   font-size: 30px;
@@ -22,11 +22,13 @@
   padding: 8px;
   border: none;
   outline: none;
-  background-color: gray;
+  /* background-color: gray; */
+  /* background-color: black; */
   /* color: white; */
 }
 .footer-container {
-  background-color: #191919;
+  /* background-color: #191919; */
+  background-color: #152858;
   padding: 50px;
   color: rgb(216, 209, 209);
   position:sticky;

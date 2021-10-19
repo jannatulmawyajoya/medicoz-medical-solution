@@ -9,6 +9,10 @@ import Menubar from './components/MenuBar/MenuBar';
 import Footer from './components/Footer/Footer';
 import AuthProvider from './contexts/AuthProvider';
 import PrivateRoute from './components/Login/PrivateRoute/PrivateRoute';
+import Department from './components/Department/Department';
+import MoreServices from './components/MoreServices/MoreServices';
+import ContactUs from './components/ContactUs/ContactUs';
+import AboutUs from './components/AboutUs/AboutUs';
 
 
 
@@ -29,6 +33,18 @@ function App() {
             </Route>
             <Route path="/login">
               <Login></Login>
+            </Route>
+            <Route path="/departments">
+              <Department></Department>
+            </Route>
+            <Route path="/services">
+              <MoreServices></MoreServices>
+            </Route>
+            <Route path="/contactUs">
+              <ContactUs></ContactUs>
+            </Route>
+            <Route path="/about">
+              <AboutUs></AboutUs>
             </Route>
             <PrivateRoute path="/singleService/:serviceId">
               <SingleService></SingleService>
