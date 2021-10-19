@@ -1,0 +1,44 @@
+[
+    {
+        "key": 1,
+        "name": "Health Check",
+        "img": "https://tse1.mm.bing.net/th?id=OIP.9SiYmRTB5c5S-hjVnfxZEgHaGm&pid=Api&rs=1&c=1&qlt=95&w=136&h=121",
+        "description": "We offer extensive medical procedures to outbound & inbound patients what it is and we are very proud achievement staff."
+        
+    },
+    {
+        "key": 2,
+        "name": "Operation Theater",
+        "img": "https://tse4.mm.bing.net/th?id=OIP.9IdcBHYrdSsjEyYC7FgI8QHaEK&pid=Api&P=0&w=271&h=153",
+        "description": "We offer better operation thetres for our patients, with great technology related machines, which are very fast and effective for conducting any kinds of operations."
+        
+    },
+    {
+        "key": 3,
+        "name": "Pharmacy Support",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.4eYZPIam6HcOrbu78S4JAwHaFK&pid=Api&P=0&w=242&h=169",
+        "description": "We offer easy pharmacy supports for our patients including world class drugs available within the store. All types of medicines will be available here."
+        
+    },
+    {
+        "key": 4,
+        "name": "Ambulance Car",
+        "img": "https://tse2.mm.bing.net/th?id=OIP.lcjqHURcuSxxOwqG1-UASQHaFj&pid=Api&P=0&w=234&h=177",
+        "description": "We offer ambulance car quickly for our patients services. The fees are relatively less and can be available at any time. Services are available for the whole country."
+        
+    },
+    {
+        "key": 5,
+        "name": "Lab Tests",
+        "img": "https://tse2.mm.bing.net/th?id=OIP.YGgqZYIn6w8I-adAbxIDnQHaE8&pid=Api&P=0&w=243&h=163",
+        "description": "We offer lab tests within our hospital. The patients can get the results within 24 hours of the test conducted. Results are given accurately."
+        
+    },
+    {
+        "key": 6,
+        "name": "Intensive Care",
+        "img": "https://tse4.mm.bing.net/th?id=OIP.7iBY0rVQn4NF6ol3WgnJawHaFj&pid=Api&P=0&w=225&h=169",
+        "description": "We offer intensive care to our dear patients. The nurses , doctors all are friendly. And are available all the time."
+        
+    }
+]
