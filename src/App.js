@@ -13,6 +13,7 @@ import Department from './components/Department/Department';
 import MoreServices from './components/MoreServices/MoreServices';
 import ContactUs from './components/ContactUs/ContactUs';
 import AboutUs from './components/AboutUs/AboutUs';
+import Register from './components/Register/Register';
 
 
 
@@ -34,9 +35,12 @@ function App() {
             <Route path="/login">
               <Login></Login>
             </Route>
-            <Route path="/departments">
-              <Department></Department>
+            <Route path="/register">
+             <Register></Register>
             </Route>
+            <PrivateRoute path="/departments">
+              <Department></Department>
+            </PrivateRoute>
             <Route path="/services">
               <MoreServices></MoreServices>
             </Route>
