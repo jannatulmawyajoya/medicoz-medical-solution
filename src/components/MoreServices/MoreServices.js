@@ -47,11 +47,11 @@ const MoreServices = () => {
                     <h4>Medical Centre is a great place to get all of your medical needs. I came in for a check up and did not wait more than 5 minutes before I was seen. I can only imagine the type of service you get for more serious issues. Thanks!</h4>
                 </div>
                 <div className="col-lg-4 mt-5">
-                    <img src="http://ary-themes.com/html/bold_touch/medicoz/images/resource/testi-thumb-3.jpg" alt="" />
+                    <img src="https://i.ibb.co/0Kq85FR/testi-thumb-3.jpg" alt="" />
                 </div>
                 <hr />
                 <div className="col-lg-4 mt-5">
-                    <img src="http://ary-themes.com/html/bold_touch/medicoz/images/resource/testi-thumb-2.jpg" alt="" />
+                    <img src="https://i.ibb.co/23gN6qF/testi-thumb-2.jpg" alt="" />
                 </div>
                 <div className="col-lg-8 p-5 text-secondary">
                     <h4>Medical Centre is a great place to get all of your medical needs. I came in for a check up and did not wait more than 5 minutes before I was seen. I can only imagine the type of service you get for more serious issues. Thanks!</h4>
@@ -61,5 +61,6 @@ const MoreServices = () => {
         </div>
     );
 };
+
 
 export default MoreServices;

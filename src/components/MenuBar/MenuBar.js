@@ -6,7 +6,7 @@ import "./MenuBar.css";
 
 
 const Menubar = () => {
-    const logo = 'http://ary-themes.com/html/bold_touch/medicoz/images/logo.png';
+    const logo = 'https://i.ibb.co/R7ZQVp9/medico.png';
     const {user, logOut} =useAuth();
     return (
         

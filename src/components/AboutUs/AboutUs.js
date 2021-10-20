@@ -6,7 +6,7 @@ const AboutUs = () => {
         <div className="about-div">
             <div className="row">
                 <div className="col-lg-5 col-12">
-                    <img src="http://ary-themes.com/html/bold_touch/medicoz/images/resource/image-3.png" alt="" />
+                    <img src="https://i.ibb.co/ZgBxnjy/image-3.png" alt="" />
                 </div>
                 <div className="col-lg-7 col-12 mt-5 p-3 ">
                     <h2>We're setting Standards in Research what's more, Clinical Care.</h2>
